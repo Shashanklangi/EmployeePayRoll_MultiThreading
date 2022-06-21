@@ -16,4 +16,8 @@
     <PackageReference Include="coverlet.collector" Version="3.1.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\EmployeePayRoll_MultiThreading\EmployeePayRoll_MultiThreading.csproj" />
+  </ItemGroup>
+
 </Project>

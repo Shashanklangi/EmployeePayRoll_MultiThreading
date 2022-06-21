@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32505.173
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeePayRoll_MultiThreading", "EmployeePayRoll_MultiThreading\EmployeePayRoll_MultiThreading.csproj", "{8234FC0E-629F-4ABA-B825-6B93B63C2660}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{79E099CA-BC30-4C19-966A-F259C2312538}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8234FC0E-629F-4ABA-B825-6B93B63C2660}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8234FC0E-629F-4ABA-B825-6B93B63C2660}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8234FC0E-629F-4ABA-B825-6B93B63C2660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79E099CA-BC30-4C19-966A-F259C2312538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E099CA-BC30-4C19-966A-F259C2312538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E099CA-BC30-4C19-966A-F259C2312538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E099CA-BC30-4C19-966A-F259C2312538}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
